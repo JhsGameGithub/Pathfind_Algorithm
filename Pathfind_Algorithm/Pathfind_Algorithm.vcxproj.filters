@@ -18,9 +18,21 @@
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="AStar.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Node.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="IPathfind.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="AStar.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h">
       <Filter>소스 파일</Filter>
     </ClInclude>
   </ItemGroup>
