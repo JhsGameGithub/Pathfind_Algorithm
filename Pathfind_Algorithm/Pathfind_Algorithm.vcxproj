@@ -134,6 +134,7 @@
     <ClInclude Include="AStar.h" />
     <ClInclude Include="IPathfind.h" />
     <ClInclude Include="Node.h" />
+    <ClInclude Include="PathfindHelper.h" />
     <ClInclude Include="Point.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
